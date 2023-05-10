@@ -1,0 +1,23 @@
+Group Members:
+	David Albasini - ncg816
+
+Files / Directories:
+	/Stable/
+		makefile		Used for compiling the program
+		main.h			Includes common imports, node structs, function prototypes, and error codes
+		main.c:			Includes functions that manage the flow of operations
+		input.c:		Includes functions that tokenize input strings
+		shellFunc.c:	Includes functions that handle execution of shell commands
+		listPID.c:		Includes functions that handle a linked list of PIDs
+
+Compile:
+	Type 'make' into the console.
+
+Run:
+	Type './proj3.exe' into the console.
+
+Issues:
+	None that I am aware of.
+
+Sources:
+	Color Usage: https://www.theurbanpenguin.com/4184-2/
